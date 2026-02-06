@@ -1,0 +1,15 @@
+C:\Users\023.978759\source\repos\teste\banco\bin\Debug\net10.0\banco.exe
+C:\Users\023.978759\source\repos\teste\banco\bin\Debug\net10.0\banco.deps.json
+C:\Users\023.978759\source\repos\teste\banco\bin\Debug\net10.0\banco.runtimeconfig.json
+C:\Users\023.978759\source\repos\teste\banco\bin\Debug\net10.0\banco.dll
+C:\Users\023.978759\source\repos\teste\banco\bin\Debug\net10.0\banco.pdb
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\banco.AssemblyInfoInputs.cache
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\banco.AssemblyInfo.cs
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\banco.csproj.CoreCompileInputs.cache
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\banco.dll
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\refint\banco.dll
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\banco.pdb
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\banco.genruntimeconfig.cache
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\ref\banco.dll
+C:\Users\023.978759\source\repos\teste\banco\obj\Debug\net10.0\banco.sourcelink.json
